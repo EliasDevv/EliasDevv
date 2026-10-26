@@ -58,8 +58,7 @@ I use and follow [Qubes OS](https://www.qubes-os.org/), a security-focused opera
 
 ## Contact
 
-- LinkedIn: [LINKEDIN-URL]
-- Email: [EMAIL]
+- LinkedIn: [Elias Masur](https://www.linkedin.com/in/elias-masur-159311360/)
 
 <p>
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=EliasDevv&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
