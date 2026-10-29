@@ -1,6 +1,6 @@
 # Hi, I'm Elias Masur
 
-M.Sc. Informatics student at TU Munich · B.Sc. Computer Science, Leipzig University
+M.Sc. Informatics student at TU Munich
 
 Munich, Germany · [LinkedIn](https://www.linkedin.com/in/elias-masur-159311360/)
 
